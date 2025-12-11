@@ -1,0 +1,14 @@
+circular_path ,value_chains
+Recycle ,Glass Value Chain 
+Reuse ,Glass Value Chain 
+Remanufacture ,Glass Value Chain 
+Refurbishment,Glass Value Chain 
+Repair ,Glass Value Chain 
+Downcycle ,Glass Value Chain 
+Recycle ,Concrete Value Chain 
+Reuse ,Concrete Value Chain 
+Downcycle ,Concrete Value Chain 
+Recycle ,Timber Value Chain
+Reuse ,Timber Value Chain
+Downcycle ,Timber Value Chain
+Recover ,Timber Value Chain

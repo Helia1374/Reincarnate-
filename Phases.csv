@@ -1,0 +1,62 @@
+phases,value_chains,phase_path ,phases_description ,phase_id 
+Extraction of raw materials,Glass Value Chain ,,,Glass1
+Production,Glass Value Chain ,,Floatline ,Glass2
+Window Manufacture,Glass Value Chain ,,,Glass3
+Installation,Glass Value Chain ,,,Glass4
+Inventory development,Glass Value Chain ,,calculating amount of glass cullet through BIM model (efficiently) ,Glass5
+Sorting windows and dismantling plans (Digitally) ,Glass Value Chain ,,,Glass6
+"Dismantling, collecting and putting windows on load carrier",Glass Value Chain ,,,Glass7
+Storage of window before transport,Glass Value Chain ,,,Glass8
+Sorting and quality assurance ,Glass Value Chain ,,,Glass9
+Scaling the entite window before pretreatment ,Glass Value Chain ,Recycle,,Glass10
+Pretreatment ,Glass Value Chain ,Recycle,,Glass11
+Scaling glass cullet amount after pretreatment ,Glass Value Chain ,Recycle,The glass cullet amount is weighted ,Glass12
+Cullet sorting ,Glass Value Chain ,Recycle,Optical sorting of cullet crushed to a preferable size ,Glass13
+Quality assurance ,Glass Value Chain ,Recycle,cullet at right size and quality is ready for sale so they go to quality assurance ,Glass14
+Scaling of cullet after the quality assurance ,Glass Value Chain ,Recycle,"New product's weight, and sending info about the amount of the raw material, which is the amount of the recycled material with co2 data",Glass15
+Storage of cullet before transport ,Glass Value Chain ,Recycle,Recycled cullet in feedstock for manufacturing of Flat Glass is stored ,Glass16
+Expert-based sorting and quality assurance ,Glass Value Chain , Refurbishment,,Glass17
+IGU Disassembly ,Glass Value Chain ,Refurbishment,,Glass20
+Inspection cleaning ,Glass Value Chain ,Refurbishment,,Glass21
+Window reupgrading,Glass Value Chain ,Refurbishment,Reupgrading to produce new windows,Glass22
+New window reproduction ,Glass Value Chain ,Refurbishment ,,Glass18
+Testing the window before marketing ,Glass Value Chain ,Refurbishment,,Glass19
+Expert-based sorting and quality assurance ,Glass Value Chain ,Reuse,,Glass17
+New window reproduction ,Glass Value Chain ,Reuse ,,Glass18
+Testing the window before marketing ,Glass Value Chain ,Reuse,,Glass19
+Expert-based sorting and quality assurance ,Glass Value Chain ,Repair ,,Glass17
+Testing the window before marketing ,Glass Value Chain ,Repair ,,Glass19
+Expert-based sorting and quality assurance ,Glass Value Chain ,Remanufacutre,,Glass17
+IGU Disassembly ,Glass Value Chain ,Remanufacutre,,Glass20
+Inspection cleaning ,Glass Value Chain ,Remanufacutre,,Glass21
+Window reupgrading,Glass Value Chain ,Remanufacutre,Reupgrading to double glazing and triple glazing ,Glass22
+Testing the window before marketing ,Glass Value Chain ,Remanufacutre,,Glass19
+Downcycled glass production,Glass Value Chain ,Downcycle ,"Glass beads,ceramic flusing agents,water filtration media",Glass23
+Glass container production ,Glass Value Chain ,Downcycle ,,Glass24
+Primary sorting of glass container waste,Glass Value Chain ,Downcycle ,,Glass25
+Collection of primarily sorted glass,Glass Value Chain ,Downcycle ,,Glass26
+Re-sorting collected glass waste for production classification,Glass Value Chain ,Downcycle ,,Glass27
+Downcycled material production from used glass containers,Glass Value Chain ,Downcycle ,"Glass ceramics,filters , glass woll,container glass ",Glass28
+Cullet extraction and powder processing,Concrete Value Chain ,,,Concrete 1
+Cemenet production ,Concrete Value Chain ,,,Concrete 2
+Concrete binders ratio experiments,Concrete Value Chain ,,Combines glass powder + cement + fly ash + water + IDx samples,Concrete 3
+Mixing concrete ,Concrete Value Chain ,,"Combines cement, aggregate ,fly ash,water and sand ",Concrete 4
+Concrete quality contorl ,Concrete Value Chain ,,,Concrete 5
+CP-IM inventory development ,Concrete Value Chain ,,,Concrete 6
+Digital delivery ticket ,Concrete Value Chain ,,,Concrete 7
+Concrete strength testing external lab ,Concrete Value Chain ,,,Concrete 8
+Transportation of the concrete to the site ,Concrete Value Chain ,,,Concrete 9
+Pouring the concrete in the site ,Concrete Value Chain ,,,Concrete 10
+Expert and test-based evaluation of the used  concrete ,Concrete Value Chain ,,,Concrete 11
+Collection of the concrete after demolition ,Concrete Value Chain ,,,Concrete 12
+on-site concrete crushing ,Concrete Value Chain ,Recycle ,,Concrete 13
+Recycled aggregates ratio experiment ,Concrete Value Chain ,Recycle ,,Concrete14
+on-site concrete crushing ,Concrete Value Chain ,Downcycle,,Concrete 13
+Production of concrete rubble ,Concrete Value Chain ,Downcycle ,This is used for road sub-base filling ,Concrete 15
+Timber extraction,Timber Value Chain ,,,Timber 1
+Laminated timber production ,Timber Value Chain ,,Glued laminated timber and cross laminated timber ,Timber 2
+Wood-based panel production ,Timber Value Chain ,,,Timber 3
+Installation,Timber Value Chain ,,,Timber 4
+Collection of used Timber after demolition ,Timber Value Chain ,,,Timber 5
+Waste Wood Incineration,Timber Value Chain ,Recover ,Energy Recovery – Heat & Electricity,Timber 6
+Furniture production ,Timber Value Chain ,Downcycle ,"Coffee tables,benches,shelves,bed frames,picture frames,doors,planters,chopping boards ",Timber 7
