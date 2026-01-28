@@ -1,4 +1,4 @@
-valuechainstage,material 
+stage_name,material 
 Virgin non-renewable raw material ,Glass 
 Flat glass production(float),Glass 
 Window manufacture ,Glass 
@@ -20,3 +20,4 @@ Service (Use phase),Timber
 Demolition,Timber
 Collection and processing,Timber
 Exit system,Timber
+
