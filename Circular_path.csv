@@ -1,14 +1,14 @@
-circular_path ,value_chains
-Recycle ,Glass Value Chain 
-Reuse ,Glass Value Chain 
-Remanufacture ,Glass Value Chain 
-Refurbishment,Glass Value Chain 
-Repair ,Glass Value Chain 
-Downcycle ,Glass Value Chain 
-Recycle ,Concrete Value Chain 
-Reuse ,Concrete Value Chain 
-Downcycle ,Concrete Value Chain 
-Recycle ,Timber Value Chain
-Reuse ,Timber Value Chain
-Downcycle ,Timber Value Chain
-Recover ,Timber Value Chain
+circular_path ,description ,phase_path ,material 
+Circular sourcing,Functional recycling (glass cullet),Recycle ,Glass 
+Re-make,1-Remove the frame and reuse the glass/2-Remove the glass and reuse the frame ,Remanufacture,Glass 
+Re-condition ,1-to-1 window with some small refurbishment,"Repair,Refurbishment",Glass 
+Reuse,1-to-1 window,Reuse,Glass 
+Co-product recovery ,"Glass wool,glass ceramics,foam glass,concrete(glass cullet)",Downcycle ,Glass 
+Resource recovery ,"windowframes (metals,wood) ",Recover ,Glass 
+Reuse,Reusable concrete component,Reuse,Concrete
+Circular sourcing,,Recycle ,Concrete
+Co-product recovery ,Concrete rubble,Downcycle ,Concrete
+Circular sourcing,,Recycle ,Timber 
+Reuse ,,Reuse,Timber 
+Resource recovery ,,Recovery ,Timber 
+Co-product recovery ,,Downcycle ,Timber 
