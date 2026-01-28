@@ -1,0 +1,22 @@
+valuechainstage,material 
+Virgin non-renewable raw material ,Glass 
+Flat glass production(float),Glass 
+Window manufacture ,Glass 
+Service (Use phase),Glass 
+Demolition ,Glass 
+Collection and processing ,Glass 
+Exit system ,Glass 
+Virgin raw material extraction,Concrete
+Cement production & concrete manufacturing,Concrete
+Construction (Pouring & installation),Concrete
+Service (Use phase),Concrete
+Demolition,Concrete
+Collection and processing,Concrete
+Exit system,Concrete
+Virgin raw material extraction,Timber
+Timber product manufacturing,Timber
+Installation,Timber
+Service (Use phase),Timber
+Demolition,Timber
+Collection and processing,Timber
+Exit system,Timber
