@@ -1,0 +1,34 @@
+deliverables_no,deliverables_name ,authors ,contributors ,reviewers ,url
+D1.1,An ontology for circular management of buildings,DEMO,"CEMEX ,RAS ","TUB,BAM",https://doi.org/10.5281/zenodo.11354328
+D1.2,Launch version CP-IM Platform (Software),MFX,DEMO,"TUB,PLANB",https://doi.org/10.5281/zenodo.11354395
+D1.3,Probabilistic methods for lifecycle assessment and prediction of buildings and construction products,TUB,"BAM,DEMO,PLANB,HUST
+","TUB,DEMO,TUD,BAM",https://doi.org/10.5281/zenodo.17407558
+D1.4,Integrated information management for circular value flow planning,RAS,"DEMO,MFX,TUB,TUD,BAM","MOW,DEMO",https://doi.org/10.5281/zenodo.17407956
+D1.5,Final version of the CP-IM Platform (Software),,,,
+D2.1,Lean construction resource planning,"MOW,CEMEX,DEMO,PLANB,VIAS"," CEMEX, DEMO, PLANB, VIAS","RAS,PLANB",https://doi.org/10.5281/zenodo.17426041
+D2.2,Circular decision making for extending the use life of real estate assets,TUD,"TUB, DEMO, 3L, RAS, VIAS",BAM,https://doi.org/10.5281/zenodo.17426235
+D2.3,Upgrade solutions for construction products,"3L,TUD,TUB,BAM",DEMO,"MOW,TUD",https://doi.org/10.5281/zenodo.17738993
+D2.4,Valuation of recycled materials,BAM,"RAS,CEMEX,TUB","EUR,MOW",https://doi.org/10.5281/zenodo.17745869
+D3.1,Circular decision making for adaptive refurbishment and renovation of real estate assets,TUD,"TUB,DEMO,3L","TUB,3L",https://doi.org/10.5281/zenodo.17745946
+D3.2,Methods for BIM supported dismantling,PLANB,"TUB, MOW, DEMO, TUD, 3L, VIAS, RAS","3L,TUD",https://doi.org/10.5281/zenodo.17746017
+D3.3,Parametric design tool for reused building parts and recycled materials,TUB," MOW, DEMO, TUD, 3L, VIAS, RAS","TUB,BAM,DEMO",https://doi.org/10.5281/zenodo.17856560
+D3.4,Advanced valuation models for recycled materials,BAM,"TUB, MOW, 3L, VIAS, CEMEX, RAS","MFX, CEMEX",https://doi.org/10.5281/zenodo.17856793
+D4.1,Adoption pathways for circular innovations in the construction industry,EUR,"TUB, MOW, 3L, RAS, PLGBC, HUST, ASI, AUS","AUS,ASI",https://doi.org/10.5281/zenodo.17856888
+D4.2,A set of methods for economic and ecological appraisal of circular economy innovations,TUD,"RAS,DEMO,PLGBC,TUB","PLANB,DEMO,TUB",https://doi.org/10.5281/zenodo.17857231
+D4.3,"Business eco-systems for circular markets: maturity, transformation, and mapping",3L,"TUB, AUS, DEMO, TUD, ASI, PLANB, HUST, EUR, CEMEX, RAS, VIAS",,https://doi.org/10.5281/zenodo.17920958
+D5.1,Demonstrations on single projects,TUB,,,
+D5.2,Market and eco-system demonstrations,TUB,,,
+D5.3,REINCARNATE business process maps,PLANB,,,
+D5.4,REINCARNATE online training platform,,,,
+D5.5,Standardization Plan,ASI,"TUB, MOW, AUS, EUR, VIAS, RAS, EUR","EUR,AUS",https://doi.org/10.5281/zenodo.11354448
+D5.6,Standardization Report,,,,
+D6.1,REINCARNATE Impact Master Plan,AUS,DEMO,"VIAS,EUR",https://doi.org/10.5281/zenodo.11354495
+D6.2,REINCARNATE Dissemination and Communication Interim,AUS,,"ASI,EUR",https://doi.org/10.5281/zenodo.17921129
+D6.3,REINCARNATE Impact Assessment and Exploitation Interim,DEMO,"TUB,3L","TUB,AUS,VIAS",https://doi.org/10.5281/zenodo.17921192
+D6.4,REINCARNATE Dissemination and Communication Final Report,,,,
+D6.5,REINCARNATE Impact Assessment and Exploitation Final Report,DEMO,,,
+D7.1,Technical quality assurance and risk management plan,TUB,,"DEMO,TUD",
+D7.2,Project Management Handbook,TUB,,,
+D7.3,Data Management Plan (DMP),EUR,"DEMO,RAS,PLANB,TUD,HUST,3L,TUB,MOW,BAM,AUS,ASI,PLGBC,VIAS,CEMEX,MFX","ASI,AUS",
+,,,,,
+,,,,,
