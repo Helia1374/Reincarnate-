@@ -65,4 +65,33 @@ Pulp production ,Timber Value Chain ,,,Timber17
 Paper production ,Timber Value Chain ,,,Timber18
 Packaging production ,Timber Value Chain ,,"There are different packaging production pathways, either after primary processing or after pulp production.",Timber19
 Furniture production ,Timber Value Chain ,,,Timber20
-,,,,
+Incineration ,Timber Value Chain ,,,Timber21
+Extraction of raw materials,Brick Value Chain,,Raw materials like clay and shale are extracted.,Brick1
+Storage of raw materials,Brick Value Chain,,,Brick2
+Size reduction,Brick Value Chain,,The raw material is made smaller by crushing or breaking it down.,Brick3
+Screening,Brick Value Chain,,The material is separated by size and unwanted parts are removed.,Brick4
+Forming and cutting,Brick Value Chain,,The prepared material is shaped into bricks and cut to size.,Brick5
+Coating and glazing,Brick Value Chain,,A surface layer or finish is applied.,Brick6
+Drying ,Brick Value Chain,,Moisture is removed from the shaped bricks.,Brick7
+Bricks Firing ,Brick Value Chain,,The bricks are baked at high temperature to harden them.,Brick8
+Storage of finished bricks ,Brick Value Chain,,,Brick9
+Bricks defection,Brick Value Chain,Recycle,,Brick10
+Ground into grog,Brick Value Chain,Recycle,This means fired brick waste is crushed into grog — a granular recycled ceramic material.,Brick11
+Re-brick sand production,Brick Value Chain,Recycle,,Brick12
+Crushing into landscape material ,Brick Value Chain,Recycle,,Brick13
+Reclay plaster production ,Brick Value Chain,Recycle,"The mix of re-brick sand , sand and clay ",Brick14
+Installation ,Brick Value Chain,,Construction phase,Brick15
+Expert and test-based evaluation of the bricks ,Brick Value Chain,,,Brick16
+Demolition,Brick Value Chain,,,Brick17
+Collection and separation,Brick Value Chain,,,Brick18
+Ground into grog,Brick Value Chain,,,Brick19
+Client contact,Brick Value Chain,Reuse,,Brick20
+Visual pre-inspection(non-destructive),Brick Value Chain,Reuse,,Brick21
+Decision on feasibility,Brick Value Chain,Reuse,,Brick22
+In-depth testing(destructive),Brick Value Chain,Reuse,,Brick23
+Payback system,Brick Value Chain,Reuse,,Brick24
+Inventory and indentification,Brick Value Chain,Reuse,,Brick25
+Cleaning and removal of mortar,Brick Value Chain,Reuse,,Brick26
+Re-certification,Brick Value Chain,Reuse,,Brick27
+Packaging,Brick Value Chain,Reuse,,Brick28
+Transportation,Brick Value Chain,Reuse,,Brick29
