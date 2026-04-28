@@ -1,0 +1,58 @@
+name,partners ,locations,type ,description,innovation
+"Education Building (virtual , faculty of psychology)",MOW,"Warsaw, Poland",Building," The 8-storey building with a total area of 26 600 m2
+will provide 30 lecture halls for nearly 400 students of the University of Warsaw.
+The project is dedicated towards sustainability, by providing energy-saving electrical installations, the use of heat
+recovery systems and renewable energy sources.",Lean construction resource planning
+Office building of partner 3L (HQ),3L,"Menden, Germany",Building,"The office building of project partner 3L was built in 1998 as a demonstration project
+for the Federal State of North Thine Westfalia to show the feasibility to build buildings
+using innovative assembly techniques avoiding wet construction methods. 
+storey building with a floor area of 1100 m2 is composed of highly flexible steel frame
+and lightweight construction components that are designed for modular dismantling
+and reuse.",Building Inspection & Valuation
+Tiny House ,3L,"Menden, Germany",Building,"We expect that people interested in tiny house, will also be more willing to adopt reused materials and building
+products. Therefore, in this demonstration we will demonstrate the possibility to entirely built tiny houses from
+reused materials and products. To this end, around all materials and products of all REINCARNATE demonstration
+projects, project partner 3L will develop a parametric BIM-based design tool for tiny houses making use of existing
+reused products and recycle materials at a specific time will be set-up. Additionally, possibilities for robotic
+automation for assembling tiny houses will be explored using TUB robot cell. At project´s end, a tiny house
+completely built from reused components and recycled materials will be built and show cased in Berlin. ","Interfaces to existing DB and planning tools,On-site waste assessment and separation"
+Circular housing asset management (HQ Paris Habitat),TUD,"Paris, France",Building,"Paris Habitat demonstration site – a 1950s social housing complex in Paris (15th arrondissement) comprised of three 12-story towers and one low-rise building (281 units). The renovation scenario needed to respect the dense urban context and various constraints.The French public housing organization Paris Habitat is an (inter)national frontrunner in using building adaptation
+as an opportunity for generating new social housing, as well as incorporating re-use of building products in housing
+refurbishment (see e.g., https://vimeo.com/216134139/c43380e04f). Because of its size, Paris Habitat can
+generate flows of building products and material within its own portfolio and, as part of the InterregNWE project
+CHARM, it is developing an internal material exchange platform for facilitating exchange and re-use of building
+components. In the project we will demonstrate how the innovative technologies from REINCARNATE can be used
+to highly increase the efficiency and quality of data collection for the internal exchange platform and thereby
+contributing to lowering organizational costs to the benefit of affordable housing.",Strategic circular decision making for real estate assets
+Supply chain cooperation demolition contractor and developer (Lagemaat ),Demo,Netherland,phase demonstrator,"In the construction sector, there is still little collaboration between architects and dismantling companies, while it
+is precisely this collaboration that is crucial for circular construction and continued effective reuse of buildings and
+components. Architects need insight into materials and products that are released through dismantling, so that
+they can incorporate them in time in designs for new buildings. Dismantling companies need insight into the need
+for released materials and products, so that they can adjust their dismantling and (temporary) storage accordingly.
+The REINCARNATE innovations have the potential to facilitate this direct collaboration between demolition
+companies and architects. This potential will be demonstrated in cooperation with architect/developer Cepezed
+projects and demolition contractor Lagemaat B.V.",Interfaces to existing DB and planning tools
+Three dedicated CDW management projects -Technical Heights building - Teknikhöjden ,RAS,Scandinavia,Building,"The Technical Heights demonstration at Teknikhöjden in Stockholm is the most innovation-rich case in the REINCARNATE portfolio. The site — a 1960s educational building complex owned by Akademiska Hus, scheduled for demolition — served as a platform for validating five REINCARNATE innovations simultaneously through three interconnected sub-demonstrations: (i) Inventory of the Material Bank, (ii) Flat Glass to Flat Glass, and (iii) BIM-Supported Dismantling Planning (Plan B). The demonstration was coordinated across multiple partners and represented a genuine multi-actor, multi-method circular construction exercise under real project conditions.","Building Inspection & Valuation,Interfaces to existing DB and planning tools,BIM for circular value flow planning,BIM supported modular dismantling planning methods,Valuation of recycled materials"
+"Infrastructure Replication, Waste Water Treatment Plant ",VIAS,"Albacete, Spain",Building,"This demonstration project will try to replicate REINCARNATE innovations on a water
+treatment plant project of partner VIAS. Water treatment plants are ideal examples of
+complex urban projects to allow for demonstrating the wider applicability of REINCARNATE
+solutions beyond buildings as they allow for the exploration of different, often
+contaminated materials, but also include many construction products (pumps, valves, etc.)
+that might lend themselves for reuse. We will model a water treatment plant renovation
+project of partner VIAS using the CP-IM and will try to replicate the inspection / valuation methods, CP-IM
+interfaces, circular value flow planning, dismantling methods, waste assessment / separation, as well as valuation
+of recycled materials. A BIM model of the existing plant to be demolished and a model of the new one to be
+constructed (‘reincarnated’) will be performed. An analysis of the reusable materials and their re-use possibilities
+in the new plant will be done, and finally the tracing and location tracking of the material will be considered and
+materialized to maximize the reuse","BIM supported modular dismantling planning methods,Building Inspection & Valuation"
+Timber house,TU Berlin ,"Berlin, Germany",Building,"This report presents the application of non-destructive testing (NDT) methods for the condition assessment and serviceability evaluation of timber roof structures. The work focuses on identifying degradation mechanisms, particularly moisture-related damage, and assessing their impact on structural performance through in-situ measurements. Two real-world case studies, located in Werdau and Berlin-Pankow, are analysed using a combination of manual inspection techniques and continuous sensor-based monitoring to capture environmental conditions and material behaviour over time.",Building Inspection & Valuation
+TUB Building ,TU Berlin ,"Berlin, Germany",Building,"This report presents an ML-based, non-destructive approach for the detection and assessment of cracks in masonry structures using image data. The work focuses on the application of machine learning and deep learning techniques to automatically identify and segment crack patterns, enabling a data-driven evaluation of structural condition.
+A custom dataset of masonry surface images was collected and annotated to support supervised learning. The methodology combines traditional machine learning models with deep learning architectures to analyse visual features and spatial patterns associated with cracks. This enables both classification of crack presence and pixel-level segmentation of crack geometry.
+The results demonstrate that deep learning models provide reliable performance in detecting and delineating cracks, supporting the interpretation of structural condition based on image data. The approach contributes to improving the consistency and scalability of inspection processes compared to manual visual assessment.
+The objective of this work is to establish a structured, data-driven method for crack detection that can support condition assessment and contribute to lifecycle-oriented decision-making within the REINCARNATE framework.",Building Inspection & Valuation
+Kathreiner Haus ,TU Berlin ,"Berlin, Germany",Building,"The Kathreiner Haus demonstration, part of the EU Reincarnate project, shows how digital innovation can drive the transition to a circular economy in construction. In essence, the project introduces a parametric automation tool designed to seamlessly integrate reclaimed building components into Building Information Modeling (BIM) workflows. By leveraging Dynamo and Revit, the tool bridges the gap between digital marketplaces for second-hand materials and BIM models, enabling architects and engineers to efficiently match and reuse components while maintaining design flexibility.
+The primary objective is to transform construction practices by reducing waste and carbon emissions through the systematic reuse of materials. The Kathreiner Haus Demonstration in Berlin serves as a proof of concept, demonstrating how automation can simplify the identification, selection, and integration of reclaimed windows into new or retrofitted buildings.
+Key outcomes include a functional tool that streamlines the reuse process for integrating circular principles into BIM, and a framework that could be adaptable to other building components. By proving the viability of digital tools in circular construction, Kathreiner Haus demonstration could enable future innovations, encouraging the industry to adopt more circular and efficient building and design practices.","Architectural design methods,Upgrade solutions for construction products"
+High Rise Building ,HUST,"Wuhan, China",Building,"This report presents an autonomous robotic system developed for on-site construction waste assessment and separation within the REINCARNATE project framework. The demonstration focuses on the Longhu Binjiang Tianjie construction site in Wuhan, China, where the system is deployed to support automated identification and handling of construction and demolition waste (CDW). Traditional waste sorting methods in construction environments often rely on manual labour, which can be inefficient and potentially hazardous.",On-site waste assessment and separation
+Storm Water Tank ,VIAS,"Madrid, Spain",Building,,Building Inspection & Valuation
+Cemex recycled aggregates -slamd ,CEMEX ,,phase demonstrator,,
