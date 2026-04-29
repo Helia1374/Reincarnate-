@@ -1,0 +1,15 @@
+phases,value_chains,phase_path ,phases_description ,phase_id 
+Identification,Concrete Value Chain,Reuse,"Inspection, tagging and classification of reusable concrete elements",Concrete 15
+Storage,Concrete Value Chain,Reuse,Temporary storage of recovered concrete elements,Concrete 16
+Reusable concrete component,Concrete Value Chain,Reuse,Approved reusable concrete component ready for next use,Concrete 17
+Transportation,Concrete Value Chain,Reuse,Logistics and delivery of reusable elements,Concrete 18
+Construction,Concrete Value Chain,Reuse,Installation in a new project,Concrete 19
+Digitizing the building,Concrete Value Chain,Reuse,Scan + BIM data capture of source building,Concrete 20
+Inventory,Concrete Value Chain,Reuse,Register reusable elements in CP-IM inventory,Concrete 21
+Portfolio of reusable components,Concrete Value Chain,Reuse,Searchable portfolio / marketplace of reusable assets,Concrete 22
+DEMO BIM platform,Concrete Value Chain,Reuse,Digital platform connecting inventory and reuse decisions,Concrete 23
+on-site concrete crushing ,Concrete Value Chain ,"Recycle,Downcycle",,Concrete 12
+Recycled aggregates ratio experiment ,Concrete Value Chain ,Recycle ,,Concrete 13
+Production of concrete rubble ,Concrete Value Chain ,Downcycle ,This is used for road sub-base filling ,Concrete 14
+Concrete 3D printer ,Concrete Value Chain ,,,Concrete24
+IFC-based registration of original delivery ticket,Concrete Value Chain ,,,Concrete25
