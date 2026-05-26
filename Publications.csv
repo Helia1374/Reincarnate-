@@ -1,36 +1,67 @@
-title,url,author,publisher,year,doi
-IFC Whisperer: Querying Building Information Models with Large Language Models and IFC-based Knowledge Graphs,https://doi.org/10.1088/1742-6596/3140/16/162007,"Yu Hsiu Tung, Samaneh Rezvani, Fatemeh Asgharzadeh, Maurijn Neumann and Timo Hartmann",IOP Publishing - Journal of Physics: Conference Series (JPCS),2025,10.1088/1742-6596/3140/16/162007
-From vision to action: An integrative approach for circular adaptive reuse,https://doi.org/10.5281/zenodo.17691389,"van Laar, B.R.; Hamida, M.B.; Greco, A.","Real Estate Research Quarterly, (Delft University of Technology)",2025,10.5281/zenodo.17691389
-Strategic decision-making in uncertainty: Integrating forward-looking scenario planning and multi-criteria analysis for adaptive reuse projects,https://doi.org/10.52202/080684-0007,"Brian van Laar , Angela Greco , Hilde Remøy , and Vincent Gruis ",Proceedings of the Circular Building Sector Conference 2025,2025,10.52202/080684-0007
+title,url,author,publisher,year,doi,partner,deliverable,demo
+IFC Whisperer: Querying Building Information Models with Large Language Models and IFC-based Knowledge Graphs,https://doi.org/10.1088/1742-6596/3140/16/162007 ,"Yu Hsiu Tung, Samaneh Rezvani, Fatemeh Asgharzadeh, Maurijn Neumann and Timo Hartmann",IOP Publishing - Journal of Physics: Conference Series (JPCS),2025,10.1088/1742-6596/3140/16/162007,,,
+From vision to action: An integrative approach for circular adaptive reuse,https://doi.org/10.5281/zenodo.17691389,"van Laar, B.R.; Hamida, M.B.; Greco, A.","Real Estate Research Quarterly, (Delft University of Technology)",2025,10.5281/zenodo.17691389,,,
+Strategic decision-making in uncertainty: Integrating forward-looking scenario planning and multi-criteria analysis for adaptive reuse projects,https://doi.org/10.52202/080684-0007,"Brian van Laar , Angela Greco , Hilde Remøy , and Vincent Gruis ",Proceedings of the Circular Building Sector Conference 2025,2025,10.52202/080684-0007,,,
 Application of AI for Material Optimization in Construction - Anwendung von KI für die Materialoptimierung im Bauwesen,https://doi.org/10.26272/opus4-61338 ,"Sarah Munsch , Tim Klewe, Katrin Schumacher , Melissa Telong , Lili Grobla  , Christoph
-Völker , Kaleb Yared, Sabine Kruschwitz ",11th Annual Meeting of the DAfStb with the 63rd Research Colloquium of BAM,2025,10.26272/opus4-61338
-Streamlining BIM-Based Procurement for a Circular Economy: Aligning Design Specifications with Reclaimed Building Components,https://doi.org/10.35490/EC3.2025.275 ,"Jorg Theunissen, Begum Aktas, and Timo Hartmann",European Council on Computing in Construction,2025,10.35490/EC3.2025.275
-Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,https://doi.org/10.17868/strath.00089311,"Begum Aktas, Timo Hartmann",Conference Proceedings University of Strathclyde Publishing,2025,10.17868/strath.00089311
-Robotic Disassembly and Window Upgrading,https://doi.org/10.15480/882.13535,Begum Aktas and Mehrzad Esmaeili Charkhab,"35 Forum Bauinformatik, Hamburg, 2024, TUHH Open Research",2025,10.15480/882.13535
-Beyond Corrosion: Autonomous Real-Time Detection of Structural Cracks and Degradation Using Robotic Sensing and Digital Twins,https://doi.org/10.58286/31663 ,"Ghezal Ahmad Jan ZIA, Cemal HEKIM  , Sabine KRUSCHWITZ",e-Journal of Nondestructive Testing - ISSN 1435-4934 - www.ndt.net,2025,10.58286/31663
-BIM-aided concrete quantities estimation and GWP optimisation,https://doi.org/10.15199/33.2025.08.12," Agata Marta Muchla, Alicja Brachaczek-Jokel, Jorge Camilo Diaz Garcia,Tomasz Piotrowski,Piotr Dymarski, Marek Dmochowski",Materia?y Budowlane,2025,10.15199/33.2025.08.12
-Towards desirable futures for the circular adaptive reuse of buildings: A participatory approach,https://doi.org/10.1016/j.scs.2025.106259,"Brian van Laar , Angela Greco , Hilde Remøy , Vincent Gruis , Mohammad B. Hamida",Sustainable Cities and Society (Elsevier),2025,10.1016/j.scs.2025.106259
-Leveraging AI to Create a Circular Built Environment,https://doi.org/10.5281/zenodo.14417214,"Brian van Laar , Angela Greco , Hilde Remøy , Vincent Gruis , Mohammad B. Hamida","AMPLIFY (VOL. 37, NO. 11)",2024,10.5281/zenodo.14417214
-Accelerating circularity systemically: three directions for impactful research,https://doi.org/10.1038/s42949-024-00183-8,"Angela Greco, Brian van Laar, Hilde Remøy & Vincent Gruis ","npj Urban Sustainability volume 4, Article number: 45 (2024)",2024,10.1038/s42949-024-00183-8
+Völker , Kaleb Yared, Sabine Kruschwitz ",11th Annual Meeting of the DAfStb with the 63rd Research Colloquium of BAM,2025,10.26272/opus4-61338,,,
+Streamlining BIM-Based Procurement for a Circular Economy: Aligning Design Specifications with Reclaimed Building Components,https://doi.org/10.35490/EC3.2025.275 ,"Jorg Theunissen, Begum Aktas, and Timo Hartmann",European Council on Computing in Construction,2025,10.35490/EC3.2025.275,,,
+Optimizing Disassembly Planning for Aluminium-Framed Windows through Automation and Collision Analysis,https://doi.org/10.17868/strath.00089311,"Begum Aktas, Timo Hartmann",Conference Proceedings University of Strathclyde Publishing,2025,10.17868/strath.00089311,,,
+Robotic Disassembly and Window Upgrading,https://doi.org/10.15480/882.13535,Begum Aktas and Mehrzad Esmaeili Charkhab,"35 Forum Bauinformatik, Hamburg, 2024, TUHH Open Research",2025,10.15480/882.13535,,,
+Beyond Corrosion: Autonomous Real-Time Detection of Structural Cracks and Degradation Using Robotic Sensing and Digital Twins,https://doi.org/10.58286/31663 ,"Ghezal Ahmad Jan ZIA, Cemal HEKIM  , Sabine KRUSCHWITZ",e-Journal of Nondestructive Testing - ISSN 1435-4934 - www.ndt.net,2025,10.58286/31663,,,
+BIM-aided concrete quantities estimation and GWP optimisation,https://doi.org/10.15199/33.2025.08.12," Agata Marta Muchla, Alicja Brachaczek-Jokel, Jorge Camilo Diaz Garcia,Tomasz Piotrowski,Piotr Dymarski, Marek Dmochowski",Materia?y Budowlane,2025,10.15199/33.2025.08.12,,,
+Towards desirable futures for the circular adaptive reuse of buildings: A participatory approach,https://doi.org/10.1016/j.scs.2025.106259,"Brian van Laar , Angela Greco , Hilde Remøy , Vincent Gruis , Mohammad B. Hamida",Sustainable Cities and Society (Elsevier),2025,10.1016/j.scs.2025.106259,,,
+Leveraging AI to Create a Circular Built Environment,https://doi.org/10.5281/zenodo.14417214,"Brian van Laar , Angela Greco , Hilde Remøy , Vincent Gruis , Mohammad B. Hamida","AMPLIFY (VOL. 37, NO. 11)",2024,10.5281/zenodo.14417214,,,
+Accelerating circularity systemically: three directions for impactful research,https://doi.org/10.1038/s42949-024-00183-8,"Angela Greco, Brian van Laar, Hilde Remøy & Vincent Gruis ","npj Urban Sustainability volume 4, Article number: 45 (2024)",2024,10.1038/s42949-024-00183-8,,,
 An Adaptive Upscaling Approach for Assesing Materials' Circularity Potential with Non-destructive Testing (NDT),https://doi.org/10.5281/zenodo.13834241,"Ghezal Ahmad Jan Zia, Christoph Völker, Benjamín Moreno Torres, and Sabine
-Kruschwitz",Zenodo,2024,10.5281/zenodo.13834241
+Kruschwitz",Zenodo,2024,10.5281/zenodo.13834241,,,
 Leveraging large language models for automated knowledge graphs generation in non-destructive testing,https://doi.org/10.5281/zenodo.13834165,"Ghezal Ahmad Jan Zia, Andre Valdestilhas, Benjamí Moreno Torresand
-Sabine Kruschwitz",Zenodo,2024,10.5281/zenodo.13834165
+Sabine Kruschwitz",Zenodo,2024,10.5281/zenodo.13834165,,,
 What matters when? – An integrative literature review on decision criteria in different stages of the adaptive reuse process,"https://doi.org/10.1016/j.dibe.2024.100439
 ","Brian van Laar , Angela Greco , Hilde Remøy , Vincent Gruis
-",Zenodo,2024,10.1016/j.dibe.2024.100439
-Concreting a sustainable future: A dataset of alkali-activated concrete and its properties,https://doi.org/10.1016/j.dib.2023.109525,"Benjamin Moreno Torres a, Christoph Völker b, Rafia Firdous ",Zenodo,2024,10.1016/j.dib.2023.109525
+",Zenodo,2024,10.1016/j.dibe.2024.100439,,,
+Concreting a sustainable future: A dataset of alkali-activated concrete and its properties,https://doi.org/10.1016/j.dib.2023.109525,"Benjamin Moreno Torres a, Christoph Völker b, Rafia Firdous ",Zenodo,2024,10.1016/j.dib.2023.109525,,,
 REINCARNATE: SHAPING A SUSTAINABLE FUTURE IN CONSTRUCTION THROUGH DIGITAL INNOVATION,https://doi.org/10.13140/RG.2.2.28985.79206,"Sabine Kruschwitz,Christoph Völker,Benjamí Moreno Torres,Ghezal Ahmad Zia
-",ResearchGate,2024,10.13140/RG.2.2.28985.79206
+",ResearchGate,2024,10.13140/RG.2.2.28985.79206,,,
 Beyond Theory: Pioneering AI-Driven Materials Design in the Sustainable Building Material Lab,https://doi.org/10.13140/RG.2.2.27019.67365,"Christoph Völker,Elisabeth John,Rafia Firdous,Tamino Hirsch
-",Zenodo,2024,10.13140/RG.2.2.27019.67365
+",Zenodo,2024,10.13140/RG.2.2.27019.67365,,,
 LLMs can Design Sustainable Concrete -a Systematic Benchmark,https://doi.org/10.13140/RG.2.2.33795.27686,"Christoph Völker,Sabine Kruschwitz,Tehseen Rug,Kevin Maik Jablonka
-",Zenodo,2024,10.13140/RG.2.2.33795.27686
+",Zenodo,2024,10.13140/RG.2.2.33795.27686,,,
 Presenting SLAMD - A Sequential Learning Based Software for the Inverse Design of Sustainable Cementitious Materials, https://doi.org/10.17756/nwj.2023-s2-032   ,"Christoph Völker,Benjami Moreno Torres,Ghezal Ahmad Zia,Rafia Firdous,Tehseen Rug,Felix Böhmer,Dietmar Stephan,Sabine Kruschwitz
-",Zenodo,2023,10.17756/nwj.2023-s2-032
+",Zenodo,2023,10.17756/nwj.2023-s2-032,,,
 14 Examples of How LLMs Can Transform Materials Science and Chemistry: A Reflection on a Large Language Model Hackathon,https://doi.org/10.48550/arXiv.2306.06283,"Christoph Völker,Sabine Kruschwitz,Benjamin Weiser,Ghezal Ahmad Zia,Other Authors
-",Zenodo,2023,10.48550/arXiv.2306.06283
+",Zenodo,2023,10.48550/arXiv.2306.06283,,,
 Data driven design of alkali-activated concrete using sequential learning,https://doi.org/10.1016/j.jclepro.2023.138221,"Christoph Völker,Benjami Moreno Torres,Tehseen Rug,Rafia Firdous,Ghezal Ahmad Jan Zia,Stefan Lüders,Horacio Lisdero Scaffino,Michael Höpler,Felix Böhmer,Matthias Pfaff,Dietmar Stephan,Sabine Kruschwitz
-",Zenodo,2023,10.1016/j.jclepro.2023.138221
+",Zenodo,2023,10.1016/j.jclepro.2023.138221,,,
 Green building materials: a new frontier in data-driven sustainable concrete design,https://doi.org/10.13140/RG.2.2.29079.85925,"Christoph Völker,Sabine Kruschwitz,Benjamí Moreno Torres,Tehseen Rug,Rafia Firdous,Ghezal Ahmad,Jan Zia,Stefan Lüders,Horacio Lisdero Scaffino,Michael Höpler,Felix Böhmer,Matthias Pfaff,Dietmar Stephan
-",Zenodo,2023,10.13140/RG.2.2.29079.85925
+",Zenodo,2023,10.13140/RG.2.2.29079.85925,,,
+LLM-Driven Multi-Agent Inspection Planning via Semantically Enriched Knowledge Graphs for Non-Destructive Testing,https://doi.org/10.5281/zenodo.18642078,"Ghezal Ahmad Jan Zia, Andre Valdestilhas, Benjamin Moreno Torres,and
+Sabine Kruschwitz",CEUR Workshop Proceedings (CEUR-WS.org),2026,10.5281/zenodo.18642078,,,
+Matrix-Based Approach to Optimizing Disassembly Sequence Planning for Aluminum-Framed Windows,https://doi.org/10.18154/RWTH-CONV-254917,Begüm Aktas,RWTH Aachen University,2026,10.18154/RWTH-CONV-254917,,,
+BIM-Based Prefab Element Tracking - Lagemaat Demonstration,https://doi.org/10.5281/zenodo.20339521, Samaneh Rezvani,Zenodo,2026,10.5281/zenodo.20339521,,,
+Tiny House Demonstration Case - One Pager,https://doi.org/10.5281/zenodo.20201915,"Begüm Aktas,Klaus Luig,Dieter Jansen",Zenodo,2026,10.5281/zenodo.20201915,"3L, TUB",,Tiny House 
+Tiny House Demonstration Case - Three Pager,https://doi.org/10.5281/zenodo.20201667,,Zenodo,2026,10.5281/zenodo.20201667,"3L, TUB","D2.2,D2.3,D3.1,D4.3,D5.1",Tiny House 
+Tiny House Demonstration Case,https://doi.org/10.5281/zenodo.20201336,"Begüm Aktas,Klaus Luig,Dieter Jansen",Zenodo,2026,10.5281/zenodo.20201336,"3L, TUB",,Tiny House 
+Application of Non-Destructive Testing Methods for the Assessment and Prediction of Wooden Roof Truss Serviceability - 3Pager,https://doi.org/10.5281/zenodo.19589710,,Zenodo,2026,10.5281/zenodo.19589710,TUB,,Timber house
+AI-based non Destructive Crack Detection in Masonry Structures - 3Pager,https://doi.org/10.5281/zenodo.19589568,,Zenodo,2026,10.5281/zenodo.19589568,TUB,,TUB Building 
+Streamlining BIM Procurement for a circular Economy - Kathreiner Haus Demonstration - 1Pager,https://doi.org/10.5281/zenodo.19468667,Jorg Theunissen,Zenodo,2026,10.5281/zenodo.19468667,TUB,,Kathreiner Haus 
+"Downstream demonstrator, downstream gate, circular feedstock - SLAMD - 1Pager",https://doi.org/10.5281/zenodo.19468544,,Zenodo,2026,10.5281/zenodo.19468544,"BAM,TUB",,Cemex recycled aggregates -slamd 
+Non Destructive Masonry Asessment using AI-Driven Image processing - 1Pager,https://doi.org/10.5281/zenodo.19468441,Tamanna Nbila Islam,Zenodo,2026,10.5281/zenodo.19468441,TUB,,TUB Building 
+Application of Non-Destructive Testing methods for the Assessment and Prediction of Wooden Roof Truss Serviceability - 1Pager,https://doi.org/10.5281/zenodo.19468301,Benjamin Moreno Torres ,Zenodo,2026,10.5281/zenodo.19468301,TUB,,Timber house
+Autonomous Robotic System for on-site Construction Waste Assessment and Separation in Wuhan - 1Pager,https://doi.org/10.5281/zenodo.19468181,Gan Zhang,Zenodo,2026,10.5281/zenodo.19468181,HUST,,High Rise Building 
+Application of Non-Destructive Testing Methods for the Assessment and Prediction of Wooden Roof Truss Serviceability,https://doi.org/10.5281/zenodo.19467967,,Zenodo,2026,10.5281/zenodo.19467967,TUB,,Timber house
+AI-Based Non-Destructive Crack Detection in Masonry Structures,https://doi.org/10.5281/zenodo.19467874,,Zenodo,2026,10.5281/zenodo.19467874,TUB,,TUB Building 
+Streamlining BIM procurement for a circular economy - Kathreiner Haus Demonstration - 3pager,https://doi.org/10.5281/zenodo.19467660,Jorg Theunissen,Zenodo,2026,10.5281/zenodo.19467660,TUB,"D3.2,D3.3",Cemex recycled aggregates -slamd 
+"Downstream Demonstrator, Downstream Gate, Circular Feedstock - SLAMD - 3Pager",https://doi.org/10.5281/zenodo.19467479,,Zenodo,2026,10.5281/zenodo.19467479,"RAS,BAM","D1.4,D3.4,D5.2,D5.3",Cemex recycled aggregates -slamd 
+Autonomous Robotic System for On-site Construction Waste Assessment and Separation in Wuhan - 3Pager,https://doi.org/10.5281/zenodo.19467361,Gan Zhang,Zenodo,2026,10.5281/zenodo.19467361,HUST,,High Rise Building 
+Streamlining BIM Procurement for a Circular Economy - Kathreiner Haus Demonstration,https://doi.org/10.5281/zenodo.19467166,Jorg Theunissen,Zenodo,2026,10.5281/zenodo.19467166,TUB,,Kathreiner Haus 
+"Downstream demonstrator, downstream gate, circular feedstock - SLAMD",https://doi.org/10.5281/zenodo.19466989,,Zenodo,2026,10.5281/zenodo.19466989,RAS,,Cemex recycled aggregates -slamd
+Autonomous robotic system for on-site waste assessment and separation: Wuhan Demonstration Case,https://doi.org/10.5281/zenodo.19466700,,Zenodo,2026,10.5281/zenodo.19466700,HUST,,High Rise Building 
+Inventory of the material bank (one pager),https://doi.org/10.5281/zenodo.19348532,Niklas Arnby,Zenodo,2026,10.5281/zenodo.19348532,"RAS,Demo,TUB",,Three dedicated CDW management projects -Technical Heights building - Teknikhöjden 
+Inventory of the material bank. A demonstration of the innovation BIM for circular value flow planning (three pager),https://doi.org/10.5281/zenodo.19348365,Niklas Arnby,Zenodo,2026,10.5281/zenodo.19348365,"RAS,Demo,TUB","D1.1,D1.3,D1.4",Three dedicated CDW management projects -Technical Heights building - Teknikhöjden 
+"BIM for Circular Value Flow Planning, Demo case/ Inventory of the material bank",https://doi.org/10.5281/zenodo.19348047,"RAS,Demo,TUB",Zenodo,2026,10.5281/zenodo.19348047,"RAS,Demo,TUB",,Three dedicated CDW management projects -Technical Heights building - Teknikhöjden 
+Circular Decision-Making for Real Estate Assets Paris Habitat Demonstration (three pager),https://doi.org/10.5281/zenodo.19347872,Vincent Gruis,Zenodo,2026,10.5281/zenodo.19347872,TUD,"D2.2,D3.1",Circular housing asset management (HQ Paris Habitat)
+Strategic Circular Decision-Making for Real Estate Assets - Paris Habitat Demonstration Case,https://doi.org/10.5281/zenodo.19347575,"Brian van Laar,Angela Greco,Hilde Remoy,Vincent Gruis",Zenodo,2026,10.5281/zenodo.19347575,TUD,,Circular housing asset management (HQ Paris Habitat)
+Circular Decision-Making for Real Estate Assets Paris Habitat Demonstration (one pager),https://doi.org/10.5281/zenodo.19347404,Brian van Laar,Zenodo,2026,10.5281/zenodo.19347404,TUD,,Circular housing asset management (HQ Paris Habitat)
+Circular material flows: Flat glass to flat glass (one pager),https://doi.org/10.5281/zenodo.19347302,Karin Wannerberg,Zenodo,2026,10.5281/zenodo.19347302,"Demo,MFX",,Three dedicated CDW management projects -Technical Heights building - Teknikhöjden 
+Flat glass to flat glass. A demonstration of the innovation BIM for circular value networks (three pager),https://doi.org/10.5281/zenodo.19346931,Karin Wannerberg,Zenodo,2026,10.5281/zenodo.19346931,"Demo,MFX,TUB,RAS",,Three dedicated CDW management projects -Technical Heights building - Teknikhöjden 
+"BIM for Circular Value Flow Planning, Demo Case/ Flat glass to flat glass",https://doi.org/10.5281/zenodo.19346176,"Karin Wannerberg,Christina Stålhandske,Sammy-Sebastian Tawakkoli",Zenodo,2026,10.5281/zenodo.19346176,RAS,,
